@@ -8,8 +8,6 @@ Author: [Swati](https://github.com/Swati-Verma671)
 This is a relatively simple challenge which requires the player to have a basic knowledge on robots.txt file and what role they play in the websites.
 
 ```
-Challenge description to go up on the website.
-
 Can you find the flag?
 https://swati-verma671.github.io/boring/
 ```
